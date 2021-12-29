@@ -1,7 +1,13 @@
 - 👋 Hi, I’m @drakenmang
-- 👀 I’m interested in ... learning to code properly and make simple games
-- 🌱 I’m currently learning ... Python Unity and Java
-- 💞️ I’m looking to collaborate on ... Making videogames
+
+My skills are: HTML, CSS3, Javascript, FIGMA, Windows, Linux.
+
+- 👀 I’m interested in ... learning to code properly and make simple games and websites.
+- 
+- 🌱 I’m currently learning ... Python, Unreal Engine, Javascript and React.
+- 
+- 💞️ I’m looking to collaborate on ... Making videogames and websites.
+- 
 - 📫 How to reach me ... jotablaze@gmail.com
 
 <!---
